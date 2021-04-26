@@ -1,0 +1,13 @@
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.exe
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.deps.json
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.runtimeconfig.json
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.runtimeconfig.dev.json
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.csprojAssemblyReference.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.AssemblyInfoInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.AssemblyInfo.cs
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.csproj.CoreCompileInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.genruntimeconfig.cache
